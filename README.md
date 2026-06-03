@@ -3,139 +3,240 @@ Hi, I'm Ahmad Galadima 👋
 </h1>
 
 <h3 align="center">
-Software Engineering Student | Flutter Developer | Mobile & Web Developer
+Software Engineering Student | Flutter Developer | Full-Stack Developer | Exploring Cybersecurity
 </h3>
+
+<p align="center">
+Final-Year Software Engineering Student at Nile University of Nigeria with practical experience in mobile and web application development. Passionate about building innovative, user-focused software solutions that address real-world challenges in healthcare, productivity, and sustainability.
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 Final-Year Software Engineering Student at Nile University of Nigeria
+🎓 Final-Year Software Engineering Student at Nile University of Nigeria (Expected Graduation: November 2026)
 
-📱 Passionate about Mobile Application Development
+📱 Passionate about Mobile Application Development using Flutter and Dart
 
-🌐 Experienced in Web Development using Flask
+🌐 Experienced in Full-Stack Web Development using Python and Flask
 
-🚀 Interested in Software Engineering, Backend Systems, and Cloud Technologies
+💻 Strong interest in Software Engineering, Backend Systems, Cloud Technologies, and Cybersecurity
 
-💡 Building solutions in Healthcare, Productivity, and Sustainability
+🚀 Experienced in developing healthcare, productivity, and business-oriented software solutions
+
+🤝 Enjoy collaborating with teams, leading projects, and applying technology to solve practical problems
+
+🌱 Currently expanding my knowledge in secure software development, cloud computing, software architecture, and cybersecurity fundamentals
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 ### Programming Languages
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+* Dart
+* Python
+* Java
+* JavaScript
+* C
+* C++
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### Mobile Development
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+* Flutter
+* Dart
+* Android Development
+* Responsive UI Design
+* Local Notifications
+* API Integration
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Web Development
 
----
-
-### Frameworks & Technologies
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
----
+* Flask
+* HTML5
+* CSS3
+* JavaScript
+* REST APIs
 
 ### Databases
 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+* SQLite
+* MySQL
+* Firebase
+* Supabase
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Development Tools
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+* Git
+* GitHub
+* VS Code
+* Android Studio
+* Postman
 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+### Software Engineering
+
+* Object-Oriented Programming
+* Software Testing
+* Database Design
+* Requirement Analysis
+* UI/UX Design
+* Agile Development
 
 ---
 
 ## 🚀 Featured Projects
 
-### 💊 Remedi - Medication Reminder App
+### 💊 Remedi – AI-Powered Medication Reminder System (Final Year Project)
 
-Flutter mobile application that helps users manage medication schedules and receive reminders.
+Remedi is a healthcare-focused mobile application designed to improve medication adherence through intelligent reminders and user-friendly medication management.
 
-**Features**
+#### Key Features
 
-- Medication management
-- Reminder notifications
-- Mark as taken
-- Modern user interface
+* Medication scheduling and reminders
+* Medication tracking
+* Mark medications as taken
+* Reminder notifications
+* User-friendly interface
+* Healthcare-focused solution
+* AI-assisted healthcare support (ongoing development)
 
----
+#### Technologies Used
 
-### 📦 Subtrackr - Subscription Manager
-
-Flask web application for tracking subscriptions and expenses.
-
-**Features**
-
-- Subscription management
-- Expense tracking
-- Email reminders
-- Admin dashboard
+* Flutter
+* Dart
+* SQLite
+* Firebase
 
 ---
 
-### 🌍 World Time App
+### 📦 Subtrackr – Subscription Management System
 
-Flutter application displaying:
+Subtrackr is a web-based platform developed to help users manage subscriptions, monitor expenses, and receive automated reminders before subscription renewals.
 
-- Current time
-- Country information
-- Latitude and Longitude
-- Location services integration
+#### Key Features
+
+* Subscription tracking
+* Expense monitoring
+* Email notifications
+* Admin dashboard
+* User management
+* Monthly and yearly expense analysis
+
+#### Technologies Used
+
+* Python
+* Flask
+* SQLite
+* HTML
+* CSS
+* JavaScript
+
+#### Leadership Role
+
+* Team Lead
+* System Design Contributor
+* Frontend and Backend Development
+
+---
+
+### 🌍 World Time Application
+
+A Flutter-based mobile application that provides users with real-time information about locations around the world.
+
+#### Key Features
+
+* Current time display
+* Country information
+* Latitude and longitude display
+* Time zone management
+* Location services integration
+
+#### Technologies Used
+
+* Flutter
+* Dart
+* REST APIs
 
 ---
 
 ### 📰 News Application
 
-Flutter application with API integration.
+A mobile application developed using Flutter that provides users with categorized and real-time news content through API integration.
 
-**Features**
+#### Key Features
 
-- Category news
-- Real-time updates
-- Optimized image loading
-- Modern UI
+* Real-time news updates
+* News categories
+* Optimized image loading
+* Modern user interface
+* Responsive design
+
+#### Technologies Used
+
+* Flutter
+* Dart
+* News APIs
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
 ### Software Development Intern
 
-**Steamledge Limited**
-(July 2024 – October 2024)
+#### Steamledge Limited
 
-- Developed Flutter mobile applications
-- Improved application performance
-- Built responsive user interfaces
-- Collaborated within development teams
+📅 July 2024 – October 2024
+
+During my internship at Steamledge Limited, I gained practical experience in cross-platform mobile application development using Flutter and Dart.
+
+#### Responsibilities
+
+* Developed mobile applications using Flutter
+* Designed responsive user interfaces
+* Improved application performance
+* Applied clean coding practices
+* Participated in collaborative software development projects
+* Worked within agile development environments
 
 ---
 
 ### Intern / Junior Developer
 
-**Challydoff Limited**
-(July 2025 – October 2025)
+#### Challydoff Limited
 
-- Frontend development
-- UI/UX improvements
-- Software testing
-- Feature implementation
-- Bug fixing
+📅 July 2025 – October 2025
+
+At Challydoff Limited, I contributed to frontend development, user interface enhancements, testing activities, and collaborative software development tasks.
+
+#### Responsibilities
+
+* Frontend development
+* UI/UX improvements
+* Software testing
+* Feature implementation
+* Bug fixing and debugging
+* Documentation support
+* Requirement analysis
+
+---
+
+## 🏆 Leadership & Academic Activities
+
+### Team Lead – Subtrackr Project
+
+Led the development team responsible for designing and implementing a Subscription Management System using Flask and Python.
+
+### Team Lead – Medication Reminder Application (Java)
+
+Led a student project focused on medication reminder functionality and healthcare software solutions.
+
+### Final Year Project Contributor – Remedi
+
+Actively involved in the design and development of a healthcare-focused medication adherence platform.
+
+### Startup and Innovation Participation
+
+Participated in startup-related activities and collaborative innovation programs focused on technology-driven solutions.
 
 ---
 
@@ -143,46 +244,70 @@ Flutter application with API integration.
 
 ### Huawei ICT Academy
 
-- HCIA Datacom V1.0
+* HCIA Datacom V1.0
 
 ### Coursera
 
-- Work Smarter, Not Harder
-- Ethics, Technology and Engineering
-- Getting Started with Microsoft Excel
+* Work Smarter, Not Harder
+* Ethics, Technology and Engineering
+* Getting Started with Microsoft Excel
 
-### Certificate Files
+---
 
-- [Huawei ICT Certificate](./certificates/ICT_Certificate.jpg)
+## 🎯 Areas of Interest
 
-- [Work Smarter, Not Harder](./certificates/Coursera_Work_Smarter.pdf)
+* Mobile Application Development
+* Full-Stack Development
+* Software Engineering
+* Backend Development
+* Cloud Computing
+* Cybersecurity
+* AI-Powered Healthcare Systems
+* Software Architecture
 
-- [Ethics, Technology and Engineering](./certificates/Coursera_Ethics.pdf)
+---
 
-- [Getting Started with Microsoft Excel](./certificates/Coursera_Microsoft_Excel.pdf)
+## 🔭 Currently Working On
+
+* Remedi (Final Year Project)
+* Flutter Mobile Applications
+* Full-Stack Development Projects
+* Healthcare Technology Solutions
+* Cybersecurity Learning Path
+
+---
+
+## 🎯 Professional Goals
+
+### Short-Term Goals
+
+* Complete B.Sc. Software Engineering
+* Secure a software engineering role
+* Strengthen Flutter expertise
+* Improve Full-Stack Development skills
+* Build a stronger GitHub portfolio
+
+### Long-Term Goals
+
+* Become a professional Software Engineer
+* Specialize in Mobile and Full-Stack Development
+* Develop expertise in Cybersecurity
+* Contribute to impactful healthcare technologies
+* Lead software development teams and projects
 
 ---
 
 ## 📫 Connect With Me
 
 💼 LinkedIn
-
-www.linkedin.com/in/ahmad-galadima-06898425b
+https://www.linkedin.com/in/ahmad-galadima-06898425b
 
 📧 Email
-
-galadimaa62@gmail.com
+[galadimaa62@gmail.com](mailto:galadimaa62@gmail.com)
 
 🐙 GitHub
-
 https://github.com/Agy830
 
 ---
 
-## 🎯 Current Goals
-
-- Improve Flutter expertise
-- Learn Cloud Computing
-- Strengthen Backend Development
-- Build AI-powered Healthcare Solutions
-- Contribute to Open Source Projects
+⭐ “Technology is most powerful when it solves real-world problems and improves people's lives.”
